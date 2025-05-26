@@ -44,17 +44,17 @@ Garantir a conformidade com a legislação trabalhista.
 
 ## Relatório e detalhes de cada Sprint 📅
 
-- Sprint 1: [Acessar](https://github.com/Tico1606/chronos-documentation/blob/main/documentation/sprints-reports/sprint-1.md)
-- Sprint 2: [Acessar](https://github.com/Tico1606/chronos-documentation/blob/main/documentation/sprints-reports/sprint-2.md)
-- sprint-3: [Acessar](https://github.com/Tico1606/chronos-documentation/blob/main/documentation/sprints-reports/sprint-3.md)
+- Sprint 1: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-1.md)
+- Sprint 2: [Acessar](hhttps://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-2.md)
+- sprint-3: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-3.md)
 
 ---
 
 ## Documentos do Produto
 
-- Manual do Usuário: [Acessar](https://github.com/Tico1606/chronos-documentation/blob/main/documentation/documents/chronos-manual-de-usuario.doc)
+- Manual do Usuário: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/chronos-manual-de-usuario.doc)
 
-- Documento do Produto: [Acessar](https://github.com/Tico1606/chronos-documentation/blob/main/documentation/documents/documento-do-produto.docx)
+- Documento do Produto: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/documento-do-produto.docx)
 
 ---
 
