@@ -52,9 +52,9 @@ Garantir a conformidade com a legislação trabalhista.
 
 ## Documentos do Produto
 
-- Manual do Usuário: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/chronos-manual-de-usuario.doc)
+- Manual do Usuário: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/chronos-manual-de-usuario.pdf)
 
-- Documento do Produto: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/documento-do-produto.docx)
+- Documento do Produto: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/documents/documento-do-produto.pdf)
 
 ---
 
