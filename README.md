@@ -45,7 +45,7 @@ Garantir a conformidade com a legislação trabalhista.
 ## Relatório e detalhes de cada Sprint 📅
 
 - Sprint 1: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-1.md)
-- Sprint 2: [Acessar](hhttps://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-2.md)
+- Sprint 2: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-2.md)
 - sprint-3: [Acessar](https://github.com/CtrI-Alt-Del/chronos-documentation/blob/main/documentation/sprints-reports/sprint-3.md)
 
 ---
