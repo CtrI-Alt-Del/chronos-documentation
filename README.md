@@ -125,7 +125,7 @@ NEXT_PUBLIC_SERVER_APP_URL=
 Certifique-se de substituir os valores de espaço reservado pelos seus dados reais.
 
 
-### Passo 6: Executar o Projeto
+### Passo 5: Executar o Projeto
 
 Após configurar as variáveis de ambiente, você pode executar o projeto usando o seguinte comando na pasta `chronos-backend`:
 
@@ -162,7 +162,7 @@ npm run dev
 
 Este comando iniciará a aplicação, e você deverá ver uma saída indicando que a aplicação cliente e servidor está em execução.
 
-### Passo 7: Acessar a Aplicação
+### Passo 6: Acessar a Aplicação
 
 Abra seu navegador e navegue até `http://localhost:3000` (ou a porta que você especificou no arquivo `.env`) para acessar a aplicação web.
 Ou abra o navegador e navegue até `http://localhost:8080` (ou a porta que você especificou no arquivo `.env`) para acessar o servidor.
